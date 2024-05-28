@@ -26,7 +26,7 @@ and:
 
     Don't search the web or display web results in Search
     
-## Context menu Show more options
+## Context menu - show more options
 To get the old flat context menu, run this registry file:
 
 [./files/classic_context_menu.reg](./files/classic_context_menu.reg)
